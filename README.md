@@ -28,9 +28,6 @@
 
   Clone the repository:
 
-    git clone https://github.com/yourusername/hexasynth.git
-    cd hexasynth
-
   Open the .jucer file in the Projucer:
 
   Open HexagramSonification.jucer
